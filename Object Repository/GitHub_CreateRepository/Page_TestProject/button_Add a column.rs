@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add a column</name>
+   <tag></tag>
+   <elementGuidId>d183572a-5d98-42ff-8665-2cf7c6c51b6f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[14]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dialog-id</name>
+      <type>Main</type>
+      <value>add-column</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>js-project-dialog-button btn btn-primary</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-haspopup</name>
+      <type>Main</type>
+      <value>dialog</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add a column</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;height-full&quot;]/body[@class=&quot;logged-in env-production page-responsive min-width-0 height-full d-flex flex-column full-width project-page intent-mouse&quot;]/div[@class=&quot;application-main d-flex flex-auto flex-column&quot;]/div[@class=&quot;d-flex flex-auto overflow-hidden&quot;]/div[@class=&quot;d-flex flex-column flex-auto overflow-hidden&quot;]/div[@class=&quot;container-lg new-discussion-timeline experiment-repo-nav d-flex flex-column flex-auto p-0&quot;]/div[@class=&quot;repository-content d-flex flex-auto&quot;]/div[@class=&quot;position-relative clearfix d-flex flex-column flex-auto overflow-auto js-project-container&quot;]/div[@class=&quot;project-columns bg-white d-flex flex-auto flex-column clearfix position-relative no-wrap project-touch-scrolling js-project-columns&quot;]/div[@class=&quot;project-columns-container d-flex flex-auto flex-row p-sm-3 position-relative overflow-hidden&quot;]/div[@class=&quot;d-flex flex-auto flex-row width-full js-project-columns-drag-container  js-project-columns-container js-socket-channel&quot;]/div[@class=&quot;js-new-column-blankslate blankslate blankslate-large blankslate-clean-background mx-auto ws-normal&quot;]/button[@class=&quot;js-project-dialog-button btn btn-primary&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <value>(//button[@type='button'])[14]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This project doesn’t have any columns or cards.'])[1]/following::button[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menu'])[2]/preceding::button[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <value>//div[2]/div/div/div[2]/button</value>
+   </webElementXpaths>
+</WebElementEntity>

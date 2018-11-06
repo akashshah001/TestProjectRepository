@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This script will login into Github with Validations</description>
+   <name>GH_001_Data_Driven_Login</name>
+   <tag></tag>
+   <comment>GitHub Login Data Driven Testing</comment>
+   <testCaseGuid>a067514c-b9fa-4caa-b1a9-7893067f03f2</testCaseGuid>
+</TestCaseEntity>

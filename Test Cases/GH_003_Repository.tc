@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create new TestProject Repository</description>
+   <name>GH_003_Repository</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c6dfa8be-c387-44e4-a990-3532b395146d</testCaseGuid>
+</TestCaseEntity>
